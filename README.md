@@ -4,6 +4,8 @@
  
 💬 Ask me about python.
 
+I also love giving back to the community whare i volunteer,organize and also give talks in different capacities.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/charles moruri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moruri_c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Charles Moruri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_moruri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moruri_c) 
