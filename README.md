@@ -24,7 +24,4 @@ I also love giving back to the community whare i volunteer,organize and also giv
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist.I have given talks & sessions in the following events:
 
-
-**TALKS**
