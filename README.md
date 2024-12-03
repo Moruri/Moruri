@@ -22,6 +22,4 @@ I also love giving back to the community whare i volunteer,organize and also giv
 ---
 [![](https://visitcount.itsvg.in/api?id=moruri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
