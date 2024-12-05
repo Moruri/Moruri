@@ -4,8 +4,13 @@
  
 💬 Ask me about python.
 
-I also love giving back to the community whare i volunteer,organize and also give talks in different capacities.
-
+🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist.I have given talks & sessions in the following events:
+   
+  GDG Pwani
+  GDG  Nyeri 
+  Google Developer Students Club  meetups
+  AWS Student Community Day 
+  Google  Crowdsource Community  Meetups                          
 
 
 
