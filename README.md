@@ -4,7 +4,7 @@
  
  • 💬 Ask me about python.
 
- • 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist. <br/>
+ • 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Machine Learning Engineer. <br/>
   I have given talks & sessions in the following events:<br/> 
   
    GDG Pwani <br/>
