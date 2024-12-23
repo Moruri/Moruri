@@ -5,7 +5,8 @@
  • 💬 Ask me about python.
 
  • 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist. <br/>
- I have given talks & sessions in the following events:
+  I have given talks & sessions in the following events:<br/> 
+  
    GDG Pwani <br/>
    GDG  Nyeri <br/> 
    Google Developer Students Club  meetups <br/>
