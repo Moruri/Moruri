@@ -27,8 +27,8 @@
 
 Technologies
 ------
-[Tensorflow](https://www.tensorflow.org/) , [Keras](https://keras.io/) , React 
-https://react.dev/
+[Tensorflow](https://www.tensorflow.org/) <br/>  [Keras](https://keras.io/) <br/>  [React](https://react.dev/) 
+
 
 -----------
 Recent Work
