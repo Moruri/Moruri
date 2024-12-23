@@ -14,6 +14,14 @@
    Google  Crowdsource Community  Meetups   <br/> 
    [See More](https://github.com/Moruri/TechTalks-events/blob/main/README.md)
 
+ • Volunteering Opportunities:
+ 
+ Google Developer Groups Nairobi Crew <br/>
+ Google Developer Students Club Lead 2023/2024  <br/>
+ Microsoft Learn Student Ambassador <br/>
+ Zindi Campus Ambassador <br/>
+ Chimoney Campus Ambassador <br/>
+
   • Let's connect here :
 
 
