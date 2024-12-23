@@ -22,7 +22,9 @@
  Zindi Campus Ambassador <br/>
  Chimoney Campus Ambassador <br/>
 
-  • Let's connect here :
+  • Let's connect here : 
+  ![image](https://github.com/user-attachments/assets/c84c58f6-95ab-4ba0-a824-f8fe5f9da99c)
+
 
 
 Technologies
