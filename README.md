@@ -4,14 +4,14 @@
  
 💬 Ask me about python.
 
-🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist.I have given talks & sessions in the following events:
-   
-  GDG Pwani <br/>
-  GDG  Nyeri <br/> 
-  Google Developer Students Club  meetups <br/>
-  AWS Student Community Day <br/>
-  Google  Crowdsource Community  Meetups   <br/> 
-  [See More](https://github.com/Moruri/TechTalks-events/blob/main/README.md)
+🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist.
+I have given talks & sessions in the following events:
+GDG Pwani <br/>
+GDG  Nyeri <br/> 
+Google Developer Students Club  meetups <br/>
+AWS Student Community Day <br/>
+Google  Crowdsource Community  Meetups   <br/> 
+[See More](https://github.com/Moruri/TechTalks-events/blob/main/README.md)
 
   Let's connect here :
 
