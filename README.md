@@ -34,7 +34,7 @@ Technologies
 
 Recent Work
 -----------
-🏆 CubeSat Hackathon — 1st Place Winner
+🏆 CubeSat_ImageClassify Hackathon — 1st Place Winner
 Developed the best-performing Machine Learning model for predicting the quality of satellite images. Achieved first place by optimizing image classification accuracy and enhancing processing efficiency. The project showcased advanced techniques in image analysis and real-time predictions for satellite data.
 
 My Github Stats 📊
