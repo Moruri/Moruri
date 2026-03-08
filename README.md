@@ -37,9 +37,9 @@ Recent Work
 🏆 CubeSat_ImageClassify Hackathon — 1st Place Winner
 Developed the best-performing Machine Learning model for predicting the quality of satellite images. Achieved first place by optimizing image classification accuracy and enhancing processing efficiency. The project showcased advanced techniques in image analysis and real-time predictions for satellite data.
 
-My Github Stats 📊
+My Github Stats 
 -----
-
+[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moruri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=moruri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moruri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
