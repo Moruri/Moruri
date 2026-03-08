@@ -39,7 +39,7 @@ Developed the best-performing Machine Learning model for predicting the quality 
 
 My Github Stats 
 -----
-[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moruri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=moruri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moruri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
