@@ -39,7 +39,7 @@ Developed the best-performing Machine Learning model for predicting the quality 
 
 ##  My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moruri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moruri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800&show=reviews,prs_merged,prs_merged_percentage)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moruri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
