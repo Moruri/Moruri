@@ -45,4 +45,4 @@ Developed the best-performing Machine Learning model for predicting the quality 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moruri&theme=dark&hide_border=false)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=moruri&icon=0&color=0)](https://visitcount.itsvg.in)
+
