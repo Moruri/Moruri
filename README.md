@@ -33,10 +33,6 @@ Technologies
 
 
 ##  My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moruri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moruri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moruri&theme=dark&hide_border=false)
 
 
