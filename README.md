@@ -8,23 +8,23 @@
   I have given talks & sessions in the following events:<br/> 
   
    GDG Pwani <br/>
+   GDG Nairobi <br/>
+   WTM Kiambu <br/>
    GDG  Nyeri <br/> 
    Google Developer Students Club  meetups <br/>
+   Nairobi Devops Community <br/>
    AWS Student Community Day <br/>
    Google  Crowdsource Community  Meetups   <br/> 
    [See More](https://github.com/Moruri/TechTalks-events/blob/main/README.md)
 
  • Volunteering Opportunities:
  
- Google Developer Groups Nairobi Crew <br/>
  Google Developer Students Club Lead 2023/2024  <br/>
+ Google Developer Groups Nairobi Crew <br/>
  Microsoft Learn Student Ambassador <br/>
  Zindi Campus Ambassador <br/>
  Chimoney Campus Ambassador <br/>
-
-  • Let's connect here : 
-  
- [ ![image](https://github.com/user-attachments/assets/c84c58f6-95ab-4ba0-a824-f8fe5f9da99c)](https://twitter.com/moruri_c)
+ 
  
 
 Technologies
