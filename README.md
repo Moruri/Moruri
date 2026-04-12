@@ -32,11 +32,6 @@ Technologies
 [Tensorflow](https://www.tensorflow.org/) <br/>  [Keras](https://keras.io/) <br/>  [React](https://react.dev/) 
 
 
-Recent Work
------------
-🏆 CubeSat_ImageClassify Hackathon — 1st Place Winner
-Developed the best-performing Machine Learning model for predicting the quality of satellite images. Achieved first place by optimizing image classification accuracy and enhancing processing efficiency. The project showcased advanced techniques in image analysis and real-time predictions for satellite data.
-
 ##  My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moruri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
 
