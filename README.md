@@ -24,12 +24,6 @@
  Microsoft Learn Student Ambassador <br/>
  Zindi Campus Ambassador <br/>
  Chimoney Campus Ambassador <br/>
- 
- 
-
-Technologies
-------
-[Tensorflow](https://www.tensorflow.org/) <br/>  [Keras](https://keras.io/) <br/>  [React](https://react.dev/) 
 
 
 ##  My GitHub Stats
