@@ -1,6 +1,6 @@
   ### Hi 👋 there
 
- • 🥇I'm Charles Moruri a young-bright Machine Learning Engineer From Kenya. I'm passionate about building impactful solutions and products with Machine Learning. I'm never tired of learning and helping other developers advance their skills.
+ • 🥇I'm Charles Moruri a  Machine Learning Engineer From Kenya. I'm passionate about building impactful solutions and products with Machine Learning. I'm never tired of learning and helping other developers advance their skills.
  
  • 💬 Ask me about python.
 
@@ -11,19 +11,13 @@
    GDG Nairobi <br/>
    WTM Kiambu <br/>
    GDG  Nyeri <br/> 
-   Google Developer Students Club  meetups <br/>
    Nairobi Devops Community <br/>
-   AWS Student Community Day <br/>
-   Google  Crowdsource Community  Meetups   <br/> 
    [See More](https://github.com/Moruri/TechTalks-events/blob/main/README.md)
 
  • Volunteering Opportunities:
  
  Google Developer Students Club Lead 2023/2024  <br/>
- Google Developer Groups Nairobi Crew <br/>
- Microsoft Learn Student Ambassador <br/>
- Zindi Campus Ambassador <br/>
- Chimoney Campus Ambassador <br/>
+ Google Developer Groups Nairobi Crew. <br/>
 
 
 ##  My GitHub Stats
