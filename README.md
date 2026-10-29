@@ -7,12 +7,16 @@
  • 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Machine Learning Engineer. <br/>
   I have given talks & sessions in the following events:<br/> 
   
-   GDG Pwani <br/>
-   GDG Nairobi <br/>
+   PyCon Africa, Kenya and Uganda <br/>
+   GDG Pwani, Nairobi, Nyeri and Eldoret <br/>
    WTM Kiambu <br/>
-   GDG  Nyeri <br/> 
    Nairobi Devops Community <br/>
    [See More](https://github.com/Moruri/TechTalks-events/blob/main/README.md)
+
+ • Organizing Opportunities :
+ 
+ Pycon Kenya <br/>
+ SpaceX Kenya.
 
  • Volunteering Opportunities:
  
